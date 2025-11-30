@@ -170,17 +170,14 @@ footer{
 .contact-info h1 {
     text-align: center;
     color: #aea4df;
+    font-size: 2rem;
+    margin-bottom: 10px;
     
 
 }
 .contact-info {
     text-align: center;
     margin-bottom: 40px;
-}
-
-.contact-info h1 {
-    font-size: 2rem;
-    margin-bottom: 10px;
 }
 
 .contact-grid {
