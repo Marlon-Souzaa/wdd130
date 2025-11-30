@@ -106,7 +106,7 @@ nav, p, section, article {
     left: 20px;
     right: 20px;
     background: rgba(78,78,249,0.5); 
-    color: white;
+    color: black;
     padding: 6px;
     border-radius: 2px;
 }
@@ -169,7 +169,7 @@ footer{
 }
 .contact-info h1 {
     text-align: center;
-    color: #aea4df;
+    color: #050505;
     font-size: 2rem;
     margin-bottom: 10px;
     
