@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+body {
+    height: 180vh;
+}
+
+.area{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    
+    border: solid red;
+}
+
+.area-absolute{
+    border: solid black
+}
+
+.fixed {
+    position: fixed;
+    width: 200px;
+    height: 80px;
+    background-color: gray;
+    bottom: 50px;
+    right: 40px;
+}
+
+header {
+    background-color: cyan;
+    width: 100%;
+    position: sticky;
+    top:0;
+}
